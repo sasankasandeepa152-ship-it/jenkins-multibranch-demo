@@ -2,7 +2,7 @@
   "name": "jenkins-multibranch-demo",
   "version": "1.0.0",
   "private": true,
-  "description": "Multibranch pipeline demo",
+  "description": "Develop branch - staging",
   "scripts": {
     "build": "node --check index.js",
     "test": "node test.js"

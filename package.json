@@ -1,0 +1,10 @@
+{
+  "name": "jenkins-multibranch-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Multibranch pipeline demo",
+  "scripts": {
+    "build": "node --check index.js",
+    "test": "node test.js"
+  }
+}
